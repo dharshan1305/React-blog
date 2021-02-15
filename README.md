@@ -1,2 +1,2 @@
-# React-blog
-A blog mind in react and django
+# react-blog
+A blog created using django and react.
